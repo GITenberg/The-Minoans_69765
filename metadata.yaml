@@ -1,0 +1,27 @@
+_repo: The-Minoans_69765
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Glasgow, George
+    gutenberg_agent_id: '55408'
+    url: http://www.gutenberg.org/2009/agents/55408
+description: ''
+gutenberg_issued: '2023-01-10'
+identifiers:
+  gutenberg: '69765'
+language: en
+pgterms:marc904: https://archive.org/details/minoansglas00glas/page/n7
+pgterms:marc905: 20190213051907glasgow
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: 'United Kingdom: Jonathan Cape,1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Minoans
+url: http://www.gutenberg.org/ebooks/69765
