@@ -1,11 +1,16 @@
 _repo: The-Minoans_69765
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69765-h/images/cover.jpg
 creator:
   author:
     agent_name: Glasgow, George
     gutenberg_agent_id: '55408'
     url: http://www.gutenberg.org/2009/agents/55408
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69765#The-Minoans
 gutenberg_issued: '2023-01-10'
 identifiers:
   gutenberg: '69765'
